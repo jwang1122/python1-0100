@@ -25,7 +25,7 @@ git config user.email "jemmylingli66@gmail.com"
 you start by saving the file.
 next you go to source control.
 now you press the plus button on your file.
-you press the check mark.
+you press the check mark.(and make sure to always provide a commit.)
 press the three dots and go to push/pull, press pull
 then press push 
 and that's it.
