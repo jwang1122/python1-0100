@@ -1,4 +1,19 @@
+# Python Levl 1 class notes
+
+##  install python interetor
+* [download]https://www.python.org/downloads/
+* install
+* check version
+
+```
+python --version
+```
+## install VSCode
+VS code is the editor for python source code.
+* [downlaod website](https://code.visualstudio.com/download)
+
 # class note
+
 ## install python
 
 ## install and use git
