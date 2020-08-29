@@ -1,7 +1,7 @@
-# Python Levl 1 class notes
+# Python Level 1 class notes
 
 ##  install python interetor
-* [download]https://www.python.org/downloads/
+* [download](https://www.python.org/downloads/)
 * install
 * check version
 
